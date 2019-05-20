@@ -1,0 +1,6 @@
+framework module Pods_EndoscopeTests {
+  umbrella header "Pods-EndoscopeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
